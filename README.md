@@ -1,6 +1,8 @@
 # Feedback Analyzer
 Monitors, tracks, analyzes and categorizes social media feedback 
 
+[Devpost with pictures of project](https://devpost.com/software/feedback-analyzer-3cnrp1)
+
 # How to build and use
 
 First of install all the dependancies, pip install -r requirements.txt
